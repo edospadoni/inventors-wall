@@ -1,1 +1,1 @@
-# words-wall
+# inventors-wall
